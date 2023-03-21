@@ -22,8 +22,11 @@ export default function Home() {
 
             <h2>William Crews</h2>
             
-            {/* <!-- Profile --> */}
+            
             <div>
+
+                {/* <!-- Profile --> */}
+
                 <p id="paper">
                     <h3>Profile</h3>
 
@@ -37,26 +40,28 @@ export default function Home() {
 
                     <div>
                         <h4>Producer</h4>
+                    </div> 
+                </p>
+
+                {/* <!-- Projects --> */}
+                
+                <p id="paper">
+                    <h3>Projects</h3>
+
+                    <div>
+                        <h4>Equinox Crest Productions LLC</h4>
                     </div>
-                    
+
+                    <div>
+                        <h4>Ptocojin Mystikoz</h4>
+                    </div>
+
                 </p>
             </div>
             
 
 
-            {/* <!-- Projects --> */}
-            <p id="paper">
-                <h3>Projects</h3>
-
-                <div>
-                    <h4>Equinox Crest Productions LLC</h4>
-                </div>
-
-                <div>
-                    <h4>Ptocojin Mystikoz</h4>
-                </div>
-
-            </p>
+            
 
 
             {/* <!-- Work Experience --> */}
