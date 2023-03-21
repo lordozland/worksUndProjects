@@ -31,8 +31,17 @@ h1, h2 {
 }
 
 #paper {
-  border-bottom: solid;
-  border-top: solid;
+  border: solid;
+  /* width: 3rem; */
+  flex-grow: 1;
+  padding: 2rem 1rem;
+}
+
+#div1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 

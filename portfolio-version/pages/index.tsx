@@ -30,15 +30,15 @@ export default function Home() {
                 <p id="paper">
                     <h3>Profile</h3>
 
-                    <div>
+                    <div id="flowling">
                         <h4>Musician</h4>
                     </div>
 
-                    <div>
+                    <div id="flowling">
                         <h4>Developer</h4>
                     </div>
 
-                    <div>
+                    <div id="flowling">
                         <h4>Producer</h4>
                     </div> 
                 </p>
