@@ -22,8 +22,8 @@ export default function Home() {
 
             <h2>William Crews</h2>
             
-            
-            <div>
+            {/* <!-- div1 --> */}
+            <div id="div1">
 
                 {/* <!-- Profile --> */}
 
@@ -44,7 +44,7 @@ export default function Home() {
                 </p>
 
                 {/* <!-- Projects --> */}
-                
+
                 <p id="paper">
                     <h3>Projects</h3>
 
