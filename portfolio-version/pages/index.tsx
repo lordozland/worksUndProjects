@@ -1,7 +1,6 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import { Inter } from 'next/font/google'
-import styles from '@/styles/Home.module.css'
+// import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -16,12 +15,12 @@ export default function Home() {
       </Head>
       <main>
         <div>
-        <h1>Equinox Crest Productions LLC</h1>
-
-        <h2>William Crews</h2>
-
-
           <p>
+            <h1>Equinox Crest Productions LLC</h1>
+
+            <h2>William Crews</h2>
+
+            <div>
               <h3>Profile</h3>
 
               <div>
@@ -35,12 +34,10 @@ export default function Home() {
               <div>
                   <h4>Producer</h4>
               </div>
-              
-          </p>
+            </div>
 
 
-
-          <p>
+            <div>
               <h3>Projects</h3>
 
               <div>
@@ -50,12 +47,9 @@ export default function Home() {
               <div>
                   <h4>Ptocojin Mystikoz</h4>
               </div>
+            </div>
 
-          </p>
-
-
-
-          <p>
+            <div>
               <h3>Work Experience</h3>
 
               <div>
@@ -69,12 +63,9 @@ export default function Home() {
               <div>
                   <h4>Avazyme</h4>
               </div>
-              
-          </p>
+            </div>
 
-
-
-          <p>
+            <div>
               <h3>Education</h3>
 
               <div>
@@ -88,7 +79,8 @@ export default function Home() {
               <div>
                   <h4>LinkedIn Certificates</h4>
               </div>
-              
+            </div>
+
           </p>
         </div>
       </main>
