@@ -21,24 +21,27 @@ export default function Home() {
             <h1>Equinox Crest Productions LLC</h1>
 
             <h2>William Crews</h2>
-
+            
             {/* <!-- Profile --> */}
-            <p id="paper">
-                <h3>Profile</h3>
+            <div>
+                <p id="paper">
+                    <h3>Profile</h3>
 
-                <div>
-                    <h4>Musician</h4>
-                </div>
+                    <div>
+                        <h4>Musician</h4>
+                    </div>
 
-                <div>
-                    <h4>Developer</h4>
-                </div>
+                    <div>
+                        <h4>Developer</h4>
+                    </div>
 
-                <div>
-                    <h4>Producer</h4>
-                </div>
-                
-            </p>
+                    <div>
+                        <h4>Producer</h4>
+                    </div>
+                    
+                </p>
+            </div>
+            
 
 
             {/* <!-- Projects --> */}
