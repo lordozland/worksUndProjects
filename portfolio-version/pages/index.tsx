@@ -32,6 +32,7 @@ export default function Home() {
 
                     <div id="flowling">
                         <h4>Musician</h4>
+                        <div>- I'm always down for a jam or talking about my favorite tunes.  </div>
                     </div>
 
                     <div id="flowling">
