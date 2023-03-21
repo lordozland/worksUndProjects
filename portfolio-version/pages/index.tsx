@@ -74,7 +74,7 @@ export default function Home() {
 
 
             {/* <!-- Education --> */}
-            <p>
+            <p id="paper">
                 <h3>Education</h3>
 
                 <div>
