@@ -21,7 +21,7 @@ export default function Home() {
             <h2>William Crews</h2>
 
             {/* <!-- Profile --> */}
-            <p>
+            <p id="paper">
                 <h3>Profile</h3>
 
                 <div>
@@ -40,7 +40,7 @@ export default function Home() {
 
 
             {/* <!-- Projects --> */}
-            <p>
+            <p id="paper">
                 <h3>Projects</h3>
 
                 <div>
@@ -55,7 +55,7 @@ export default function Home() {
 
 
             {/* <!-- Work Experience --> */}
-            <p>
+            <p id="paper">
                 <h3>Work Experience</h3>
 
                 <div>
