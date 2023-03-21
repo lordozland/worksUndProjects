@@ -16,71 +16,7 @@ export default function Home() {
       <main>
         <div>
           <p>
-            <h1>Equinox Crest Productions LLC</h1>
-
-            <h2>William Crews</h2>
-
-            <div>
-              <h3>Profile</h3>
-
-              <div>
-                  <h4>Musician</h4>
-              </div>
-
-              <div>
-                  <h4>Developer</h4>
-              </div>
-
-              <div>
-                  <h4>Producer</h4>
-              </div>
-            </div>
-
-
-            <div>
-              <h3>Projects</h3>
-
-              <div>
-                  <h4>Equinox Crest Productions LLC</h4>
-              </div>
-
-              <div>
-                  <h4>Ptocojin Mystikoz</h4>
-              </div>
-            </div>
-
-            <div>
-              <h3>Work Experience</h3>
-
-              <div>
-                  <h4>Oransi</h4>
-              </div>
-
-              <div>
-                  <h4>Dun and Bradstreet</h4>
-              </div>
-
-              <div>
-                  <h4>Avazyme</h4>
-              </div>
-            </div>
-
-            <div>
-              <h3>Education</h3>
-
-              <div>
-                  <h4>Belmont University</h4>
-              </div>
-
-              <div>
-                  <h4>UNC Coding Bootcamp</h4>
-              </div>
-
-              <div>
-                  <h4>LinkedIn Certificates</h4>
-              </div>
-            </div>
-
+            <h1>Hello World!</h1>
           </p>
         </div>
       </main>
