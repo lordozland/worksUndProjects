@@ -16,112 +16,110 @@ export default function Home() {
         <link rel="icon" href="/Logo.png" />
       </Head>
       <main>
-        <div>
-          <p>
-            <h1>Equinox Crest Productions LLC</h1>
+        
+        <h1>Equinox Crest Productions LLC</h1>
 
-            <h2>William Crews</h2>
+        <h2>William Crews</h2>
+
+        {/* <!-- div1 --> */}
+        <section id="div1">
+
+            {/* <!-- Profile --> */}
+
+            <p id="paper">
+                <h3>Profile</h3>
+
+                <div id="flowling"><strong>Musician</strong> - Always down to jam.</div>
+
+                <div id="flowling"><strong>Developer</strong> - Always down to code.</div>
+
+                <div id="flowling"><strong>Producer</strong> - Always down to program.</div>
+            </p>
+
+            {/* <!-- Projects --> */}
+
+            <p id="paper">
+                <h3>Projects</h3>
+
+                <div id="flowling"><strong>Equinox Crest Productions LLC</strong> - This is my production company.</div>
+
+                <div id="flowling"><strong>Ptocojin Mystikoz</strong> - This is my solo project's name.</div>
+
+            </p>
+        </section>
+
+
+
+
+
+
+        {/* <!-- Work Experience --> */}
+        <p id="paper">
+            <h3>Work Experience</h3>
+
+            <div>
+                <h4>Oransi</h4>
+                <h5>Customer Support Representative - 2020 - Present</h5>
+
+                <ul>
+                    <li>Wrote CSR intranet section for training and to generate a knowledge base</li>
+                    <li>Answered Sales and CSR phone lines for retail sales, troubleshooting, shipping corrections and warranty claims</li>
+                    <li>Processed returns and warranty exchanges via FedEx and UPS</li>
+                    <li>Responded to LiveChat (Hubspot) and email inquiries</li>
+                </ul>
+
+            </div>
+
             
-            {/* <!-- div1 --> */}
-            <div id="div1">
 
-                {/* <!-- Profile --> */}
+            <div>
+                <h4>Avazyme</h4>
+                <h5>Administration, IT and Software Solutions - 2019 - 2020</h5>
+                <ul>
+                    <li>Created over 100 Excel, Word, Docusign and Adobe DC Pro templates to streamline data generation and storage</li>
+                    <li>Proposed and implemented 15 PowerPoint manuals to identify and improve administrative and management functions</li>
+                    <li>Negotiated a one-year Docusign contract at a $5,000 discount as an additional auditable step for Title 21 CFR Part 11 compliancy</li>
+                    <li>Mapped a proxy LIMS system in Excel using pivot tables, macros and time-based functions to aid both scientists and customer relations employees</li>
+                    <li>Purchased, installed and generated GLP reports for a 48 Port Gigabit Ethernet Rackmount Switch, DDR3 and DDR4 RAM cards for 4 computers and mechanical parts for laboratory machines</li>
+                    <li>Balanced onsite and offsite projects to fulfill the needs of multiple departments</li>
+                    <li>Communicated changing goals and expectations to Avazyme employees while providing clear details and training on new workflow processes</li>
+                    <li>Researched and designed a Dell PowerEdge T440 Tower Server with one SSD bootup disk and a mechanical RAID 5 setup as an alternative to the cloud-based data storage system</li>
+                    <li>Developed a system for generating GLP document and signatures with an auditable trail for continued Title 21 CFR Part 11 compliancy</li>
+                </ul>
+            </div>
 
-                <p id="paper">
-                    <h3>Profile</h3>
+            <div>
+                <h4>Dun and Bradstreet</h4>
+                <h5>Customer Service Advisor and Brand Ambassador - 2016 - 2019</h5>
 
-                    <div id="flowling"><strong>Musician</strong> - Always down to jam.</div>
-
-                    <div id="flowling"><strong>Developer</strong> - Always down to code.</div>
-
-                    <div id="flowling"><strong>Producer</strong> - Always down to program.</div>
-                </p>
-
-                {/* <!-- Projects --> */}
-
-                <p id="paper">
-                    <h3>Projects</h3>
-
-                    <div id="flowling"><strong>Equinox Crest Productions LLC</strong> - This is my production company.</div>
-
-                    <div id="flowling"><strong>Ptocojin Mystikoz</strong> - This is my solo project's name.</div>
-
-                </p>
+                <ul>
+                    <li>Developed, tested and implemented new measures and service tools to determine which yield increased customer satisfaction</li>
+                    <li>Conducted weekly team meetings to enhance ongoing processes for international discrepancies, address strategies and reduce customer interruptions in service and data</li>
+                    <li>Worked with developers in order to facilitate easier enrollment and faster turnaround times</li>
+                </ul>
             </div>
             
+        </p>
 
 
+        {/* <!-- Education --> */}
+        <p id="paper">
+            <h3>Education</h3>
+
+            <div>
+                <h4>Belmont University</h4>
+            </div>
+
+            <div>
+                <h4>UNC Coding Bootcamp</h4>
+            </div>
+
+            <div>
+                <h4>LinkedIn Certificates</h4>
+            </div>
             
-
-
-            {/* <!-- Work Experience --> */}
-            <p id="paper">
-                <h3>Work Experience</h3>
-
-                <div>
-                    <h4>Oransi</h4>
-                    <h5>Customer Support Representative - 2020 - Present</h5>
-
-                    <ul>
-                        <li>Wrote CSR intranet section for training and to generate a knowledge base</li>
-                        <li>Answered Sales and CSR phone lines for retail sales, troubleshooting, shipping corrections and warranty claims</li>
-                        <li>Processed returns and warranty exchanges via FedEx and UPS</li>
-                        <li>Responded to LiveChat (Hubspot) and email inquiries</li>
-                    </ul>
-
-                </div>
-
-                
-
-                <div>
-                    <h4>Avazyme</h4>
-                    <h5>Administration, IT and Software Solutions - 2019 - 2020</h5>
-                    <ul>
-                        <li>Created over 100 Excel, Word, Docusign and Adobe DC Pro templates to streamline data generation and storage</li>
-                        <li>Proposed and implemented 15 PowerPoint manuals to identify and improve administrative and management functions</li>
-                        <li>Negotiated a one-year Docusign contract at a $5,000 discount as an additional auditable step for Title 21 CFR Part 11 compliancy</li>
-                        <li>Mapped a proxy LIMS system in Excel using pivot tables, macros and time-based functions to aid both scientists and customer relations employees</li>
-                        <li>Purchased, installed and generated GLP reports for a 48 Port Gigabit Ethernet Rackmount Switch, DDR3 and DDR4 RAM cards for 4 computers and mechanical parts for laboratory machines</li>
-                        <li>Balanced onsite and offsite projects to fulfill the needs of multiple departments</li>
-                        <li>Communicated changing goals and expectations to Avazyme employees while providing clear details and training on new workflow processes</li>
-                        <li>Researched and designed a Dell PowerEdge T440 Tower Server with one SSD bootup disk and a mechanical RAID 5 setup as an alternative to the cloud-based data storage system</li>
-                        <li>Developed a system for generating GLP document and signatures with an auditable trail for continued Title 21 CFR Part 11 compliancy</li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h4>Dun and Bradstreet</h4>
-                    <h5>Customer Service Advisor and Brand Ambassador - 2016 - 2019</h5>
-
-                    <ul>
-                        <li>Developed, tested and implemented new measures and service tools to determine which yield increased customer satisfaction</li>
-                        <li>Conducted weekly team meetings to enhance ongoing processes for international discrepancies, address strategies and reduce customer interruptions in service and data</li>
-                        <li>Worked with developers in order to facilitate easier enrollment and faster turnaround times</li>
-                    </ul>
-                </div>
-                
-            </p>
-
-
-            {/* <!-- Education --> */}
-            <p id="paper">
-                <h3>Education</h3>
-
-                <div>
-                    <h4>Belmont University</h4>
-                </div>
-
-                <div>
-                    <h4>UNC Coding Bootcamp</h4>
-                </div>
-
-                <div>
-                    <h4>LinkedIn Certificates</h4>
-                </div>
-                
-            </p>
-          </p>
-        </div>
+        </p>
+        
       </main>
     </>
   )

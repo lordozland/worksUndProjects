@@ -9,11 +9,11 @@
 body {
   font-family: 'Crimson Text', serif;
   background-color: rgba(174, 174, 174, 0.701);
+  line-height: 150%;
 }
 
 p {
   margin: 1.5rem 1rem;
-  line-height: 150%;
 }
 
 h3 {
@@ -34,6 +34,9 @@ ul {
   padding-left: 5rem;
 }
 
+div {
+  padding-left: 3rem;
+}
 
 #div1 {
   display: flex;
@@ -44,7 +47,7 @@ ul {
 
 #paper {
   border: solid;
-  /* width: 3rem; */
+  min-width: auto;
   flex-grow: 1;
   padding: 2rem 1rem;
 }
