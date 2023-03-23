@@ -60,7 +60,7 @@ export default function Home() {
 
                 <div>
                     <h4>Oransi</h4>
-                    <h5>Customer Support Representative - 2020-Present</h5>
+                    <h5>Customer Support Representative - 2020 - Present</h5>
 
                     <ul>
                         <li>Wrote CSR intranet section for training and to generate a knowledge base</li>
@@ -75,11 +75,12 @@ export default function Home() {
 
                 <div>
                     <h4>Avazyme</h4>
+                    <h5>Administration, IT and Software Solutions - 2019 - 2020</h5>
                 </div>
 
                 <div>
                     <h4>Dun and Bradstreet</h4>
-                    <h5>Customer Service Advisor and Brand Ambassador - 2016-2019</h5>
+                    <h5>Customer Service Advisor and Brand Ambassador - 2016 - 2019</h5>
 
                     <ul>
                         <li>Developed, tested and implemented new measures and service tools to determine which yield increased customer satisfaction</li>
