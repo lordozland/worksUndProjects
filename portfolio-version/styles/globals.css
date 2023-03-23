@@ -44,6 +44,9 @@ h1, h2 {
   justify-content: center;
 }
 
+
+
+/* 
 #flowing {
   padding-left: 50%;
 }
@@ -51,14 +54,13 @@ h1, h2 {
 
 #paper1 {
   border: solid;
-  /* width: 3rem; */
+  width: 3rem;
   flex-grow: 1;
   padding: 2rem 1rem;
   display: flex;
-  flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-content: center;
+} */
 
 
 
