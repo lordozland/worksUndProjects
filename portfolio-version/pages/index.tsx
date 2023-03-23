@@ -17,9 +17,9 @@ export default function Home() {
       </Head>
       <main>
         
-        <h1>Equinox Crest Productions LLC</h1>
+        <h1>William Crews</h1>
 
-        <h2>William Crews</h2>
+        <h2>Owner of Equinox Crest Productions LLC</h2>
 
         {/* <!-- div1 --> */}
         <section id="div1">
