@@ -60,14 +60,32 @@ export default function Home() {
 
                 <div>
                     <h4>Oransi</h4>
+                    <h5>Customer Support Representative - 2020-Present</h5>
+
+                    <ul>
+                        <li>Wrote CSR intranet section for training and to generate a knowledge base</li>
+                        <li>Answered Sales and CSR phone lines for retail sales, troubleshooting, shipping corrections and warranty claims</li>
+                        <li>Processed returns and warranty exchanges via FedEx and UPS</li>
+                        <li>Responded to LiveChat (Hubspot) and email inquiries</li>
+                    </ul>
+
+                </div>
+
+                
+
+                <div>
+                    <h4>Avazyme</h4>
                 </div>
 
                 <div>
                     <h4>Dun and Bradstreet</h4>
-                </div>
+                    <h5>Customer Service Advisor and Brand Ambassador - 2016-2019</h5>
 
-                <div>
-                    <h4>Avazyme</h4>
+                    <ul>
+                        <li>Developed, tested and implemented new measures and service tools to determine which yield increased customer satisfaction</li>
+                        <li>Conducted weekly team meetings to enhance ongoing processes for international discrepancies, address strategies and reduce customer interruptions in service and data</li>
+                        <li>Worked with developers in order to facilitate easier enrollment and faster turnaround times</li>
+                    </ul>
                 </div>
                 
             </p>
