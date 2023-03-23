@@ -30,10 +30,7 @@ export default function Home() {
                 <p id="paper">
                     <h3>Profile</h3>
 
-                    <div id="flowling">
-                        
-                        <div><h4>Musician</h4> <span>- I'm always down for a jam or talking about my favorite tunes.</span>   </div>
-                    </div>
+                    <div id="flowling"><strong>Musician</strong>- Always down to jam.</div>
 
                     <div id="flowling">
                         <h4>Developer</h4>
