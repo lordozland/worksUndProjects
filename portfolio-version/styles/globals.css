@@ -20,7 +20,7 @@ h3 {
   padding-left: 2rem;
 }
 
-h4 {
+h4, h5 {
   padding-left: 2.5rem;
 }
 
@@ -28,6 +28,10 @@ h1, h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+ul {
+  padding-left: 5rem;
 }
 
 
