@@ -76,6 +76,17 @@ export default function Home() {
                 <div>
                     <h4>Avazyme</h4>
                     <h5>Administration, IT and Software Solutions - 2019 - 2020</h5>
+                    <ul>
+                        <li>Created over 100 Excel, Word, Docusign and Adobe DC Pro templates to streamline data generation and storage</li>
+                        <li>Proposed and implemented 15 PowerPoint manuals to identify and improve administrative and management functions</li>
+                        <li>Negotiated a one-year Docusign contract at a $5,000 discount as an additional auditable step for Title 21 CFR Part 11 compliancy</li>
+                        <li>Mapped a proxy LIMS system in Excel using pivot tables, macros and time-based functions to aid both scientists and customer relations employees</li>
+                        <li>Purchased, installed and generated GLP reports for a 48 Port Gigabit Ethernet Rackmount Switch, DDR3 and DDR4 RAM cards for 4 computers and mechanical parts for laboratory machines</li>
+                        <li>Balanced onsite and offsite projects to fulfill the needs of multiple departments</li>
+                        <li>Communicated changing goals and expectations to Avazyme employees while providing clear details and training on new workflow processes</li>
+                        <li>Researched and designed a Dell PowerEdge T440 Tower Server with one SSD bootup disk and a mechanical RAID 5 setup as an alternative to the cloud-based data storage system</li>
+                        <li>Developed a system for generating GLP document and signatures with an auditable trail for continued Title 21 CFR Part 11 compliancy</li>
+                    </ul>
                 </div>
 
                 <div>
