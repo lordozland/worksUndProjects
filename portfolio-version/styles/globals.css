@@ -30,18 +30,19 @@ h1, h2 {
   align-items: center;
 }
 
-#paper {
-  border: solid;
-  /* width: 3rem; */
-  flex-grow: 1;
-  padding: 2rem 1rem;
-}
 
 #div1 {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+#paper {
+  border: solid;
+  /* width: 3rem; */
+  flex-grow: 1;
+  padding: 2rem 1rem;
 }
 
 
