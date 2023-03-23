@@ -30,11 +30,11 @@ export default function Home() {
                 <p id="paper">
                     <h3>Profile</h3>
 
-                    <div id="flowling"><strong>Musician</strong>- Always down to jam.</div>
+                    <div id="flowling"><strong>Musician</strong> - Always down to jam.</div>
 
-                    <div id="flowling"><strong>Developer</strong>- Always down to code.</div>
+                    <div id="flowling"><strong>Developer</strong> - Always down to code.</div>
 
-                    <div id="flowling"><strong>Producer</strong>- Always down to program.</div>
+                    <div id="flowling"><strong>Producer</strong> - Always down to program.</div>
                 </p>
 
                 {/* <!-- Projects --> */}
@@ -42,13 +42,9 @@ export default function Home() {
                 <p id="paper">
                     <h3>Projects</h3>
 
-                    <div>
-                        <h4>Equinox Crest Productions LLC</h4>
-                    </div>
+                    <div id="flowling"><strong>Equinox Crest Productions LLC</strong> - This is my production company.</div>
 
-                    <div>
-                        <h4>Ptocojin Mystikoz</h4>
-                    </div>
+                    <div id="flowling"><strong>Ptocojin Mystikoz</strong> - This is my solo project's name.</div>
 
                 </p>
             </div>
