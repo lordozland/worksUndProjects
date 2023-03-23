@@ -32,13 +32,9 @@ export default function Home() {
 
                     <div id="flowling"><strong>Musician</strong>- Always down to jam.</div>
 
-                    <div id="flowling">
-                        <h4>Developer</h4>
-                    </div>
+                    <div id="flowling"><strong>Developer</strong>- Always down to code.</div>
 
-                    <div id="flowling">
-                        <h4>Producer</h4>
-                    </div> 
+                    <div id="flowling"><strong>Producer</strong>- Always down to program.</div>
                 </p>
 
                 {/* <!-- Projects --> */}
