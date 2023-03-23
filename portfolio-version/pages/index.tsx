@@ -31,8 +31,8 @@ export default function Home() {
                     <h3>Profile</h3>
 
                     <div id="flowling">
-                        <h4>Musician</h4>
-                        <div>- I'm always down for a jam or talking about my favorite tunes.  </div>
+                        
+                        <div><h4>Musician</h4> <span>- I'm always down for a jam or talking about my favorite tunes.</span>   </div>
                     </div>
 
                     <div id="flowling">

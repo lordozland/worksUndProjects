@@ -47,10 +47,14 @@ h1, h2 {
 #flowing {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  overflow: auto;
+  align-items: flex-start;
+  justify-content: center;
+  flex-grow: 1;
 }
 
+#one {
+  
+}
 
 
 
